@@ -132,9 +132,9 @@ The dataset includes:
 ---
 
 ##  Dashboard Preview
-Image 1 - https://github.com/nishaatsheikh/Zomato-Power-BI-Dashboard/blob/main/zomato%20power%20bi%201.png?raw=true
-Image 2 - https://github.com/nishaatsheikh/Zomato-Power-BI-Dashboard/blob/main/zomato%20power%20bi%202.png?raw=true
-Image 3 - https://github.com/nishaatsheikh/Zomato-Power-BI-Dashboard/blob/main/zomato%20power%20bi%203.png?raw=true
+-- Image 1 - https://github.com/nishaatsheikh/Zomato-Power-BI-Dashboard/blob/main/zomato%20power%20bi%201.png?raw=true
+-- Image 2 - https://github.com/nishaatsheikh/Zomato-Power-BI-Dashboard/blob/main/zomato%20power%20bi%202.png?raw=true
+-- Image 3 - https://github.com/nishaatsheikh/Zomato-Power-BI-Dashboard/blob/main/zomato%20power%20bi%203.png?raw=true
 
 ## Project File
 -- Download Power BI Dashboard 
