@@ -132,7 +132,8 @@ The dataset includes:
 ---
 
 ##  Dashboard Preview
-(Add your screenshots here using image links)
+Image 1 - https://github.com/nishaatsheikh/Zomato-Power-BI-Dashboard/blob/main/zomato%20power%20bi%201.png?raw=true
+Image 2 - 
 
 ---
 
